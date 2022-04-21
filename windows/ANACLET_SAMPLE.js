@@ -1,1 +1,1 @@
-{"window":"pippo","items":[{"id":"home_panel","title":"Pippo","width":"col-12","background":"bg-primary-reverse","isCard":true}]}
+{"window":"","items":[{"id":"home_panel","title":"","width":"col-12","background":"bg-primary-reverse","isCard":true}]}
