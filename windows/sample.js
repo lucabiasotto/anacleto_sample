@@ -1,1 +1,13 @@
-"\n{\nwindow: sample,\nitems: [\n            {\n                id: \"home_panel\",\n                title: \"SAMPLE\",\n                width: \"col-12\",\n                background: \"bg-primary-reverse\",\n                isCard: true,\n            }\n        ]\n    }"
+
+{
+window: sample,
+items: [
+            {
+                id: "home_panel",
+                title: "SAMPLE",
+                width: "col-12",
+                background: "bg-primary-reverse",
+                isCard: true,
+            }
+        ]
+    }
