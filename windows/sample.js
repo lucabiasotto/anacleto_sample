@@ -1,6 +1,6 @@
 
 {
-window: sample,
+window: "sample",
 items: [
             {
                 id: "home_panel",
