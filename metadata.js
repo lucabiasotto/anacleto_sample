@@ -1,5 +1,5 @@
 {
-    application : "ANACLET_SAMPLE",
+    application : "ANACLETO_SAMPLE",
     appLogo : "",
     menu: [
         {
