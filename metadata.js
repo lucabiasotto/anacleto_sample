@@ -1,5 +1,6 @@
 {
     application : "ANACLETO_SAMPLE",
+    name : "Anacleto",
     appLogo : "",
     menu: [
         {
