@@ -1,1 +1,2 @@
-alert("CIAO_edit")
+//Store del form1
+alert("CIAO");
