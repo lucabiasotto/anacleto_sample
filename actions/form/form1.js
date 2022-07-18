@@ -1,2 +1,2 @@
 //Store del form1
-alert("CIAO");
+alert("CIAO ciao");
