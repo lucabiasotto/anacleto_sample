@@ -1,2 +1,4 @@
-//Store del form1
-alert("CIAO ciao edit");
+var x = true;
+if(x){
+    alert("CIAO");
+}
